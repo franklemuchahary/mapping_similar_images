@@ -1,7 +1,4 @@
-# Learning Data Visualization
+# Image Similarity Using OpenCV
 
-All things related to learning the art of telling stories through data using visualizations created in R and Python.
-Creating visualizations for performing exploratory data analysis on a few popular and openly available datasets like the `tips dataset`, `auto-mpg dataset`, and `life_expectancy dataset`. Will be working on adding more interactive visualizations.
+Given two sets of images, we try to find out if there are pairs of images which are similar and generate a similarity score for the images.
 <br><br>
-[Visualizations in Python](Python/): using `matplotlib`, `seaborn`, `plotly` <br>
-[Visualization in R](r/): using `ggplot`
